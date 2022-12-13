@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1623621014 source:c:\users\pc\desktop\engenharia informática\1º ano\2º semestre\prog\tpprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tpPROG.h"
+	"tpPROG.c"
+	"utils.h"
+
+1623621014 c:\users\pc\desktop\engenharia informática\1º ano\2º semestre\prog\tpprog\tpprog.h
+
+1623621014 c:\users\pc\desktop\engenharia informática\1º ano\2º semestre\prog\tpprog\tpprog.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tpPROG.h"
+	"utils.h"
+
+1623621014 c:\users\pc\desktop\engenharia informática\1º ano\2º semestre\prog\tpprog\utils.h
+
+1623621014 source:c:\users\pc\desktop\engenharia informática\1º ano\2º semestre\prog\tpprog\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1623575125 c:\users\pc\desktop\engenharia informática\1º ano\2º semestre\prog\tpprog\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+	"tpPROG.h"
+
